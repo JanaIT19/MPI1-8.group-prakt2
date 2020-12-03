@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
         dialog.setOnClickListener(new View.OnClickListener() {
              @Override
              public void onClick(View v) {
-                dialog();
+                alertDialog();
              }
         });
 
@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
-    public void dialog(){
+    public void alertDialog(){
         AlertDialog.Builder alertDialog = new AlertDialog.Builder(this);
         alertDialog.setTitle(R.string.tittle);
         alertDialog.setMultiChoiceItems(R.array.grupasStudenti, null, new DialogInterface.OnMultiChoiceClickListener() {
