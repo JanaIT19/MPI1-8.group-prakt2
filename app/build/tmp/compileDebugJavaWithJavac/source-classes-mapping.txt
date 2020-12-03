@@ -1,8 +1,12 @@
-lv/voldins/pd1/MainActivity.java
- lv.voldins.pd1.MainActivity
- lv.voldins.pd1.MainActivity$1
+lv/voldins/pd1/BuildConfig.java
+ lv.voldins.pd1.BuildConfig
 lv/voldins/pd1/MainActivity2.java
  lv.voldins.pd1.MainActivity2
  lv.voldins.pd1.MainActivity2$1
-lv/voldins/pd1/BuildConfig.java
- lv.voldins.pd1.BuildConfig
+lv/voldins/pd1/MainActivity.java
+ lv.voldins.pd1.MainActivity
+ lv.voldins.pd1.MainActivity$1
+ lv.voldins.pd1.MainActivity$2
+ lv.voldins.pd1.MainActivity$3
+ lv.voldins.pd1.MainActivity$4
+ lv.voldins.pd1.MainActivity$5

@@ -24,9 +24,9 @@ public class MainActivity2 extends AppCompatActivity {
         });
 
     }
-    public void openActivity1(){
-   finish();
-        /*     Intent intent = new Intent(this, MainActivity.class);
-        startActivity(intent);*/
+     public void openActivity1(){
+        finish();
+        //Intent intent = new Intent(this, MainActivity.class);
+        //startActivity(intent);
     }
 }

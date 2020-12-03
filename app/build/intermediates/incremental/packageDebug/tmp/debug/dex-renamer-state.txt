@@ -1,7 +1,7 @@
-#Thu Dec 03 15:06:18 EET 2020
-base.0=C\:\\Users\\Jana\\AndroidStudioProjects\\MPI1-8.group-prakt2\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+#Thu Dec 03 19:37:10 EET 2020
+base.0=C\:\\Users\\Voldis\\AndroidStudioProjects\\pd1\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=C\:\\Users\\Jana\\AndroidStudioProjects\\MPI1-8.group-prakt2\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+base.1=C\:\\Users\\Voldis\\AndroidStudioProjects\\pd1\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex

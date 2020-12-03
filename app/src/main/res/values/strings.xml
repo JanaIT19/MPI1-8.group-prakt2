@@ -13,5 +13,11 @@
 
     <string name="group_user_3">Voldemārs Rava</string>
 
-    <string name="creator">Izveidoja: Voldemārs Rava</string>
+    <string name="creator">Izveidoja: Valdemārs Rava</string>
+
+    <string-array name="grupasStudenti">
+        <item>Voldemars Rava</item>
+        <item>Jana Priedite</item>
+        <item>Andra Metrina</item>
+    </string-array>
 </resources>

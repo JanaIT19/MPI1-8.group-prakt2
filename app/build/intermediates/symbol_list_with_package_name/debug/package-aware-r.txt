@@ -45,6 +45,7 @@ animator mtrl_fab_hide_motion_spec
 animator mtrl_fab_show_motion_spec
 animator mtrl_fab_transformation_sheet_collapse_spec
 animator mtrl_fab_transformation_sheet_expand_spec
+array grupasStudenti
 attr actionBarDivider
 attr actionBarItemBackground
 attr actionBarPopupTheme
@@ -1455,7 +1456,6 @@ id barrier
 id beginning
 id blocking
 id bottom
-id button2
 id buttonActivity2
 id buttonBackActivity1
 id buttonPanel
@@ -1489,6 +1489,7 @@ id design_menu_item_action_area
 id design_menu_item_action_area_stub
 id design_menu_item_text
 id design_navigation_view
+id dialog
 id dialog_button
 id dimensions
 id direct
