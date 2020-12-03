@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
     }
     public void openActivity2(){
        // Intent intent = new Intent(this, MainActivity2.class).addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP or  Intent.FLAG_ACTIVITY_NEW_TASK);
-        Intent intent = new Intent(this, MainActivity2.class)
+        Intent intent = new Intent(this, MainActivity2.class); //Hello
         startActivity(intent);
     }
 
