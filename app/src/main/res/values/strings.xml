@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PD</string>
+
+    <string name="activity">1-st Activity</string>
+
+    <string name="activity2">2-nd Activity</string>
+
+    <string name="tittle">Grupa Nr.8</string>
+
+    <string name="group_user_1">Jana Priedīte</string>
+
+    <string name="group_user_2">Andra Mētriņa</string>
+
+    <string name="group_user_3">Voldemārs Rava</string>
+
+    <string name="creator">Izveidoja: Voldemārs Rava</string>
+</resources>
